@@ -24,7 +24,7 @@
 
 > Visualization:
 - Sales by state as a packed bubbles
-- Sales by Customer Name as a horizontal bars
+- Sales by Customer Name as a horizontal bars chart
 - Time Series Analysis of Profit as a lines chart
 
 <img align = center src =https://github.com/abhijeetraj22/Jobaaj-Data-Tableau-PowerBI-workshop/blob/main/img/Dashboard%201.png>
